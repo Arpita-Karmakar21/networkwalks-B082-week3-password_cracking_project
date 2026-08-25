@@ -27,6 +27,9 @@ In this project, we are going to crack the password of a password protected PDF 
 ## ⚙️ Tools & Resources
 1. John The Ripper
    * This has two version: Johny (Graphical Version) & John (CLI: Command Line version)
+2. Networkwalks Tools
+   * Hash Calculator (https://networkwalks.com/hash-calculator/)
+   * Password Cracker (https://networkwalks.com/password-cracker/)
 
 ---
 
@@ -66,9 +69,12 @@ Now, the password is copied and pasted on the PDF password box, the pdf got open
 <img width="1920" height="1080" alt="Screenshot 2026-08-25 221220" src="https://github.com/user-attachments/assets/71cbb27a-1710-49bc-9ee2-7fe4858aaf47" />
 <img width="1920" height="1080" alt="Screenshot 2026-08-25 221252" src="https://github.com/user-attachments/assets/3dde90b3-a8d5-4c0b-889c-f27d41f9c847" />
 
-
-
 ---
+### Module 1: W3-PM1: Password Cracking with Networkwalks Tools
+In this PDF password cracking, the tools of Networkwalks will be used. All of those are in web browser, website based tools.
+
+At first, the password protected or locked PDF file is downloaded. Then the https://networkwalks.com/hash-calculator/ website is opened on browser.
+
 
 ## Used Commands in terminal
 
