@@ -64,7 +64,8 @@ Start New Attack ➡️ The tool has cracked the Password which is good-luck
 Now, the password is copied and pasted on the PDF password box, the pdf got opened. That is the result.
 
 <img width="1920" height="1080" alt="Screenshot 2026-08-25 221220" src="https://github.com/user-attachments/assets/71cbb27a-1710-49bc-9ee2-7fe4858aaf47" />
-![Uploading Screenshot 2026-08-25 221252.png…]()
+<img width="1920" height="1080" alt="Screenshot 2026-08-25 221252" src="https://github.com/user-attachments/assets/3dde90b3-a8d5-4c0b-889c-f27d41f9c847" />
+
 
 
 ---
