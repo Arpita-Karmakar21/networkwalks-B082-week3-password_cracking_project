@@ -73,7 +73,11 @@ Now, the password is copied and pasted on the PDF password box, the pdf got open
 ### Module 1: W3-PM1: Password Cracking with Networkwalks Tools
 In this PDF password cracking, the tools of Networkwalks will be used. All of those are in web browser, website based tools.
 
-At first, the password protected or locked PDF file is downloaded. Then the https://networkwalks.com/hash-calculator/ website is opened on browser.
+At first, the password protected or locked PDF file is downloaded. Then the https://networkwalks.com/hash-calculator/ website is opened on browser. The pdf is uploaded in the website and then the Hash value it gives is copied. Now the password cracker is opened through "https://networkwalks.com/password-cracker/" this link. Then the hash value is pasted on the password cracker tool and "Start Cracking" Button is pressed. The tool will run the possibilities check using the dictionary attack and it'll crack the password in minutes. 
+The password is put on the PDF and the PDF is opened now.
+
+
+
 
 
 ## Used Commands in terminal
