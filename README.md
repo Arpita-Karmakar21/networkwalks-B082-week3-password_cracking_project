@@ -1,17 +1,25 @@
-# Password Cracking
-JTR, NW tools password cracking lesson
+<div align="center">
 
----
+# Password Cracking (PDF)
 
+### JTR, NW tools password cracking
 
-| Field | Details |
-| :--- | :--- |
-| **Pentester Name** | Arpita Karmakar |
-| **Program** | B082-Networkwalks |
-| **Modules completed** | **Module 1:** Password Cracking with John the Ripper (JTR)<br>**Module 2:** Password Cracking with Networkwalks Tools |
-| **Client/Target** | Password Protected PDF files |
-| **Permission secured from client?** | Yes |
-| **Phases covered** |  * JTR and Johnny installation on Windows<br>* Extracted the hash of locked PDF files using online hash calculator/extractor.<br>* Saved the hash into a text file and loaded it into tools.<br>- Launched a cracking session and successfully recovered the password (password1). |
+| Week: 3 | CYBERSECURITY | NETWORKWALKS |
+
+<br/>
+
+<!-- Relevant Cybersecurity Badges -->
+![Password Cracking](https://img.shields.io/badge/PASSWORD%20CRACKING-red?style=for-the-badge&logo=security)
+![John the Ripper](https://img.shields.io/badge/JOHNNY%20%2F%20JTR-00599C?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)
+![PDF Forensics](https://img.shields.io/badge/PDF%20FORENSICS-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
+![Hash Cracking](https://img.shields.io/badge/HASH%20EXTRACTOR-purple?style=for-the-badge)
+![Networkwalks](https://img.shields.io/badge/NETWORKWALKS%20TOOLS-green?style=for-the-badge)
+<br/>
+<!-- Developer Badge -->
+[![GitHub](https://img.shields.io/badge/GITHUB-DEVELOPER-555555?style=for-the-badge&logo=github)](https://github.com/)
+![Developer](https://img.shields.io/badge/DEVELOPER-ARPITA%20KARMAKAR-7A3E9D?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -31,16 +39,13 @@ In this project, we are going to crack the password of a password protected PDF 
 
 ---
 
-## 🖥️Lab Configuration
-
----
-
+  
 ## ⚙️ Tools & Resources
-1. John The Ripper
-   * This has two version: Johny (Graphical Version) & John (CLI: Command Line version)
-2. Networkwalks Tools
-   * Hash Calculator (https://networkwalks.com/hash-calculator/)
-   * Password Cracker (https://networkwalks.com/password-cracker/)
+
+| Tool / Resource | Details |
+| :--- | :--- |
+| **1. John The Ripper** | Has two versions:<br>- **Johnny:** Graphical Version (GUI)<br>- **John:** Command Line Interface (CLI) |
+| **2. Networkwalks Tools** | Online Utility Tools:<br>- [Hash Calculator](https://networkwalks.com/hash-calculator/)<br>- [Password Cracker](https://networkwalks.com/password-cracker/) |
 
 ---
 
@@ -81,20 +86,13 @@ Now, the password is copied and pasted on the PDF password box, the pdf got open
 <img width="1920" height="1080" alt="Screenshot 2026-08-25 221252" src="https://github.com/user-attachments/assets/3dde90b3-a8d5-4c0b-889c-f27d41f9c847" />
 
 ---
-### Module 1: W3-PM1: Password Cracking with Networkwalks Tools
+### Module 2: W3-PM1: Password Cracking with Networkwalks Tools
 In this PDF password cracking, the tools of Networkwalks will be used. All of those are in web browser, website based tools.
 
 At first, the password protected or locked PDF file is downloaded. Then the https://networkwalks.com/hash-calculator/ website is opened on browser. The pdf is uploaded in the website and then the Hash value it gives is copied. Now the password cracker is opened through "https://networkwalks.com/password-cracker/" this link. Then the hash value is pasted on the password cracker tool and "Start Cracking" Button is pressed. The tool will run the possibilities check using the dictionary attack and it'll crack the password in minutes. 
 The password is put on the PDF and the PDF is opened now.
 
 
-
-
-
-## Used Commands in terminal
-
-
----
 
 ## 🔎 Lab Verification
 
@@ -103,6 +101,12 @@ The password is put on the PDF and the PDF is opened now.
 
 ## 🏗️ Lab Architecture
 
+➡️Password Protected PDF 
+➡️ Hash Value Extraction 
+➡️ Input Hash Value in Attacker Tool 
+➡️ Password cracked 
+➡️ Input the password in the PDF file 
+➡️ PDF unlocked
 
 ---
 
