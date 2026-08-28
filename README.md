@@ -4,6 +4,17 @@ JTR, NW tools password cracking lesson
 ---
 
 
+| Field | Details |
+| :--- | :--- |
+| **Pentester Name** | Arpita Karmakar |
+| **Program** | B082-Networkwalks |
+| **Modules completed** | **Module 1:** Password Cracking with John the Ripper (JTR)<br>**Module 2:** Password Cracking with Networkwalks Tools |
+| **Client/Target** | Password Protected PDF files |
+| **Permission secured from client?** | Yes |
+| **Phases covered** |  * JTR and Johnny installation on Windows<br>* Extracted the hash of locked PDF files using online hash calculator/extractor.<br>* Saved the hash into a text file and loaded it into tools.<br>- Launched a cracking session and successfully recovered the password (password1). |
+
+---
+
 ## 📌 Project Overview
 
 In this project, we are going to crack the password of a password protected PDF file using JTR (John the Ripper), Networkwalks Tools, AI(MCP Server). 
