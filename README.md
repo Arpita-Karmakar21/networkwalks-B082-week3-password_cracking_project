@@ -95,6 +95,10 @@ The password is put on the PDF and the PDF is opened now.
 
 
 
+https://github.com/user-attachments/assets/bd16eb63-a23d-4a8f-ba9e-b99d83e598cc
+
+
+
 
 
 <br><br>
@@ -102,6 +106,7 @@ The password is put on the PDF and the PDF is opened now.
 
 ## 🔎 Lab Verification
 
+<img width="3840" height="2160" alt="image (1)" src="https://github.com/user-attachments/assets/7706dff3-c37d-4203-ad00-16c1aa098718" />
 
 ---
 
@@ -123,10 +128,18 @@ The password is put on the PDF and the PDF is opened now.
 
 ## 💡 What I Learned
 
+I learned about:
+* Hashing and cracking
+* Configuring the tools
+* How to use John the Ripper and Networkwalks password cracker tools
   
 ---
 
 ## 🔐Security & Ethics:
+
+This project is intended strictly for education purposes only.
+This project is for ethical, secured and safe Cyber Security practices.
+The files used at this, are all permitted and authorized making sure safe environment.
 
 ---
 
