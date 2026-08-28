@@ -24,6 +24,18 @@
 ---
 
 
+| Field | Details |
+| :--- | :--- |
+| **Pentester Name** | Arpita Karmakar |
+| **Program** | B082-Networkwalks |
+| **Modules completed** | **Module 1:** Password Cracking with John the Ripper (JTR)<br>**Module 2:** Password Cracking with Networkwalks Tools |
+| **Client/Target** | Password Protected PDF files|
+| **Permission secured from client?** | Yes |
+| **Phases covered** | 1. JTR and Johnny installation on Windows<br> 2. Extracted the hash of locked PDF files using online hash extractor<br> 3. Saved the hash into a text file and loaded it into tools<br> 4. Run cracking process and successfully crack the passwords|
+
+---
+
+
 ## 📌 Project Overview
 
 This project focuses on the practical execution of password recovery and hash cracking techniques targeting a password-protected PDF document. This lab demonstrates the end-to-end workflow of identifying, extracting, and cracking document encryption credentials in a controlled environment.
