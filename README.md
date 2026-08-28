@@ -150,9 +150,9 @@ I learned about:
 
 ## 🔐Security & Ethics:
 
-This project is intended strictly for education purposes only.
-This project is for ethical, secured and safe Cyber Security practices.
-The files used at this, are all permitted and authorized making sure safe environment.
+This project is intended strictly for education purposes only.<br>
+This project is for ethical, secured and safe Cyber Security practices.<br>
+The files used at this, are all permitted and authorized making sure safe environment.<br>
 
 ---
 
