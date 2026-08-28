@@ -62,7 +62,7 @@ This project focuses on the practical execution of password recovery and hash cr
 
 ---
 
-## 🪜Procedures:
+## ⌛Procedures:
 
 ### Module 1: W3-PM1: Password Cracking with JTR
 
